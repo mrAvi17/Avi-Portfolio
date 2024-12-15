@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.507a3381.css",
-    "main.js": "/static/js/main.9266cb85.js",
-    "index.html": "/index.html"
+    "main.css": "/mrAvi17/Avi-Portfolio/static/css/main.507a3381.css",
+    "main.js": "/mrAvi17/Avi-Portfolio/static/js/main.d5fa3d07.js",
+    "index.html": "/mrAvi17/Avi-Portfolio/index.html"
   },
   "entrypoints": [
     "static/css/main.507a3381.css",
-    "static/js/main.9266cb85.js"
+    "static/js/main.d5fa3d07.js"
   ]
 }
